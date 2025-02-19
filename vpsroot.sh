@@ -2,7 +2,7 @@
 # Mod By SL
 
 # Download sshd_config and restart SSH service
-wget -qO /etc/ssh/sshd_config https://raw.githubusercontent.com/Tax1e/vpsroot/refs/heads/main/sshd_config
+wget -qO /etc/ssh/sshd_config https://raw.githubusercontent.com/fisabiliyusri/Mantap/main/sshd_config
 systemctl restart sshd
 
 clear
